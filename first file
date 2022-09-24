@@ -3,3 +3,6 @@ b=TRUE
 print(a)
 print(a and b)
 print(a or b)
+
+x=("hello word")
+print(x)
